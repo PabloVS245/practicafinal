@@ -1,5 +1,5 @@
 # practicafinal
-Practica Pablo Vacas Salazar Formación Junior JAVA
+Práctica Pablo Vacas Salazar Formación Junior JAVA
 
 1.- Descargar y descomprimir el archivo .zip
 2.- Importar desde el IDE como Existing Maven Proyects
