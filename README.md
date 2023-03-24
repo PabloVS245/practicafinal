@@ -19,3 +19,4 @@ Práctica Pablo Vacas Salazar Formación Junior JAVA
             #spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
             #spring.jpa.hibernate.ddl-auto=none
             #spring.jpa.defer-datasource-initialization=true 
+6.- Recomendable PostMan para comprobar el funcionamiento del Servicio
